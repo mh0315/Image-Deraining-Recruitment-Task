@@ -1,2 +1,26 @@
-# Image-Deraining-Recruitment-Task
-This is the codebase for the Ling Rui Studio's recruitment task "Image Restoration and Contrastive Learning: From the De-raining Task".
+# 图像修复与对比学习：从去雨任务开始
+> 这是凌睿工作室二轮招新题目 “图像修复与对比学习：从去雨任务开始” 的代码库
+
+#### 答题流程
+
+为方便审评，请按照以下步骤提交你的任务成果
+
+1. Fork 出题人给出的代码库
+
+    - 请将代码库复制到自己的 GitHub 上
+    - 请确保你的 Fork 仓库是公开的，以便我们能够访问
+      
+2. 在你的仓库中完成任务
+
+    - 请你在自己的 Fork 仓库中，完成所有的任务，具体格式请参考代码库中的 README 文件
+      
+3. 提交
+
+    - 请你在提交题解前，确保自己至少已经完成了所有的非附加任务，复制代码库的地址
+    - 使用 PDF 或直接用 QQ 联系的方式，提交你的代码库地址
+
+
+#### 请注意：
+
+- 评审的唯一依据是你提供的 GitHub 中的内容
+- 请勿将你的代码库打包为`.zip` 文件上传，这不符合本次任务的要求
