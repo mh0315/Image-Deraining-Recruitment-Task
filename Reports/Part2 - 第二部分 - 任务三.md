@@ -26,9 +26,9 @@ feat_vector = feat_pooled.flatten(1)
 
 训练结果
 
-![](Part2 第二部分 任务三 train.png)
+![](<Part2 第二部分 任务三 train.png>)
 
 测试结果
 
-![](Part2 第二部分 任务三 test.png)
+![](<Part2 第二部分 任务三 test.png>)
 
