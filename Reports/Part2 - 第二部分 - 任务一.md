@@ -8,7 +8,7 @@
 
 3.
 
-1.以下为补全的代码
+ 1.以下为补全的代码
 
 ```python
 import torch
@@ -35,9 +35,9 @@ class PerceptualLoss(nn.Module):
 
 
 
-2.训练结果![](Part2 第二部分 任务一 train.png)
+ 2.训练结果![](<Part2 第二部分 任务一 train.png>)
 
 测试结果
 
-![](Part2 第二部分 任务一 test.png)
+![](<Part2 第二部分 任务一 test.png>)
 
