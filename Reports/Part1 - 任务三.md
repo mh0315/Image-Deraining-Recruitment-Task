@@ -2,7 +2,7 @@
 
 **1.环境搭建：小菜一碟**
 
-下图为安装依赖库的截图![2](../Image-Deraining-Recruitment-Task/Reports/libraries.png)
+下图为安装依赖库的截图![2](libraries.png)
 
 **2.实现一个简单模型**
 
