@@ -63,7 +63,7 @@ class DerainNet(nn.Module):
     
 ```
 
-2.下图为训练结果![](../Image-Deraining-Recruitment-Task/Reports/Part2 第一部分 任务二 3 .png)
+2.下图为训练结果![](<Part2 第一部分 任务二 3 .png>)
 
 测试结果
 
